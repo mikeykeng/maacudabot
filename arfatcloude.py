@@ -66,11 +66,11 @@ def get_uptime():
     return f"⏱️ {days}d {hours}h {minutes}m {seconds}s"
 
 # ===== BOT CONFIGURATION =====
-BOT_TOKEN = '9066582219:AAHxEqT2zKNZ_aqi_f5x95yiYqv0arVbVew'
+BOT_TOKEN = '9066582219:AAHirDtV3xNklBPGQk22Sev_8GUD0DxmqOA'
 OWNER_ID = 9297979676
 ADMIN_ID = 9297979676
-YOUR_USERNAME = '@arfatowns'
-UPDATE_CHANNEL = 'https://t.me/arishuarc'
+YOUR_USERNAME = '@k1ttu_darling'
+UPDATE_CHANNEL = 'https://t.me/shinzu_update'
 BOT_PASSWORD = "KHUSHI"
 WELCOME_VIDEO_URL = "https://www.image2url.com/r2/default/videos/1793239426918-80f3f148-16e4-4f42-8803-9de2508c8396.mp4"
 authorized_users = {OWNER_ID, ADMIN_ID}
