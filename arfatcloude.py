@@ -66,7 +66,7 @@ def get_uptime():
     return f"⏱️ {days}d {hours}h {minutes}m {seconds}s"
 
 # ===== BOT CONFIGURATION =====
-BOT_TOKEN = '9066582219:AAHuy87qqa6hEjuPHuVwgSCb038dpxODTlU'
+BOT_TOKEN = '9066582219:AAHxEqT2zKNZ_aqi_f5x95yiYqv0arVbVew'
 OWNER_ID = 9297979676
 ADMIN_ID = 9297979676
 YOUR_USERNAME = '@arfatowns'
